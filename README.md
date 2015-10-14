@@ -59,6 +59,7 @@ onResume()
 onPause() --> onResume() 
 
 **When user pressed phone's answer button**
+
 onPause()
 
 **After call end**
