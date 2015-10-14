@@ -18,6 +18,7 @@ an explanation of android activity lifeCycle for beginners
 	5- onStopped()
 	6- onRestart()
 	7- onDestory()
+![alt tag](http://developer.android.com/images/activity_lifecycle.png)
 
 
 # Situations
