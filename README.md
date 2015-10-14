@@ -11,13 +11,13 @@ an explanation of android activity lifeCycle for beginners
 	6- Destroyed
 
 # Activity lifecycle have seven methods
-	onCreate()
-	onStart()
-	onResume()
-	onPause()
-	onStopped()
-	onRestart()
-	onDestory()
+	1- onCreate()
+	2- onStart()
+	3- onResume()
+	4- onPause()
+	5- onStopped()
+	6- onRestart()
+	7- onDestory()
 
 
 # Situations
