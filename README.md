@@ -39,6 +39,7 @@ onPaused() --> onStop()
 onRestart() --> onStart() --> onResume()
 
 **When open app another app from notification bar or open settings**
+
 onPaused() --> onStop()
 
 **Back button pressed from another app or settings then used can see our app**
