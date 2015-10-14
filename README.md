@@ -2,7 +2,7 @@
 an explanation of android activity lifeCycle for beginners 
 
 
-Activity have six states
+# Activity have six states
 Created
 Started
 Resumed
@@ -10,7 +10,7 @@ Paused
 Stopped
 Destoryed
 
-Activity lifecycle have seven methods
+# Activity lifecycle have seven methods
 onCreate()
 onStart()
 onResume()
@@ -20,7 +20,7 @@ onRestart()
 onDestory()
 
 
-Situations
+# Situations
 
 When open the app
 onCreate() --> onStart() -->  onResume()
